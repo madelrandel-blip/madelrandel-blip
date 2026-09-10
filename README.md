@@ -174,6 +174,9 @@ The project focuses on creating a centralized and visually appealing experience 
 │  🔧 Developer Tooling                                        │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
+
+```
+
 ---
 
 <div align="center">
