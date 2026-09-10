@@ -174,48 +174,6 @@ The project focuses on creating a centralized and visually appealing experience 
 │  🔧 Developer Tooling                                        │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
-```
-
----
-
-# 🛠️ Development Philosophy
-
-> **Build it. Break it. Understand it. Improve it.**
-
-I prefer learning through experimentation and real projects.
-
-Whether it's creating an application from scratch, understanding how an existing system works, or experimenting with technologies from older gaming platforms, the goal is always to understand **how things work underneath the surface**.
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madelrandel-blip\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madelrandel-blip\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
-
----
-
-# 🦋 Currently Exploring
-
-```text
-Game Preservation
-        ↓
-Reverse Engineering
-        ↓
-Native Software
-        ↓
-Recompilation
-        ↓
-Cross-Platform Applications
-        ↓
-Better Gaming Tools
-```
-
 ---
 
 <div align="center">
