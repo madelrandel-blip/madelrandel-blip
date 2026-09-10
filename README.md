@@ -115,25 +115,7 @@ The project explores desktop UI development, music playback, local libraries, do
 
 [**→ View Luma Music**](https://github.com/madelrandel-blip/Luma-Music)
 
----
-
 <div align="center">
-
-### 🎮 Luma Launcher
-
-**Gaming frontend focused on the emulation and preservation community**
-
-</div>
-
-Luma Launcher explores the concept of a dedicated gaming frontend for organizing games and emulator-related content.
-
-The project focuses on creating a centralized and visually appealing experience for managing a personal game library.
-
-**Technologies**
-
-`HTML` `CSS` `JavaScript` `JSON`
-
-[**→ View Luma Launcher**](https://github.com/madelrandel-blip/Luma-Launcher)
 
 ---
 
