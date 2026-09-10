@@ -2,6 +2,10 @@
 
 # 🦋 Madeline
 
+<p align="center">
+  <img src="Kcho.jpg" width="">
+</p>
+
 ### Software • Gaming • Game Preservation • Reverse Engineering
 
 Building things around games, software and technology.
